@@ -13,7 +13,7 @@ def division():
     div=a/b
     print("div=",div)
 for i in range(5):
-    print("the operation are 1.addition\n2.subtraction\n3.multiplication\n4.division\n5.exit")
+    print("the operation are  1.addition\n2.subtraction\n3.multiplication\n4.division\n5.exit")
     operation=int(input("enter the number:"))
     if operation==1:
         add()
